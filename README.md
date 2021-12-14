@@ -1,29 +1,31 @@
-#NCAA Football PS3 to PS2/PSP Conversion Tool#
+NCAA Football PS3 to PS2/PSP Conversion Tool
 
 Created by Anthony Nguyen / Minotauri
 
 http://www.AntDroid.dev
 
-Dec 12, 2021
-
-Version 0.70
 
 This tool was created to help assist in the conversion of an extracted NCAA Football roster from the Playstation 3 system to create a CSV file that can be used to create a roster file for the NCAA Football series for Playstation 2 and Playstation Portable.
 
 
 Updates:
-v0.70
-Complete Re-Balance of Attributes to closer match NCAA 06 original database
-Accurate Overall Rating Calculations
 
-v0.60
-Fixed name capitalizations
-Added more Head/Hair combos
-Fixed Macros
+v0.70 - Dec 12, 2021
 
-pmatches!
-Fixed the cell count to 8700 so you can import more teams if necessary for modding
-and easier usage.
++Complete Re-Balance of Attributes to closer match NCAA 06 original database
+
++Accurate Overall Rating Calculations
+
+
+v0.60 - Dec 08, 2021
+
++Fixed name capitalizations
+
++Added more Head/Hair combos
+
++Fixed Macros
+
+
 
 Requirements:
 Microsoft Excel
@@ -58,16 +60,26 @@ roster.
 8. Please also delete all PGID (Player IDs) from:
 
 NCAA 05 through NCAA 08 FBS Rosters
+
 12670 to 16029
+
 16170 to end
 
+
+
 NCAA 09-11 FBS Rosters
+
 12670 to 12739
+
 15260 to 16029
+
 16170 to end
 
 
 9. Save as CSV.
+
+
+
 
 Importing to PS2/PSP
 1. Open your PS2 or PSP save file in Madden DB Editor.
