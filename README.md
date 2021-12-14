@@ -1,6 +1,6 @@
 NCAA Football PS3 to PS2/PSP Conversion Tool
 
-Created by Anthony Nguyen / Minotauri
+Created by Anthony Nguyen
 
 http://www.AntDroid.dev
 
