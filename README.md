@@ -1,7 +1,11 @@
-NCAA Football PS3 to PS2/PSP Conversion Tool
+#NCAA Football PS3 to PS2/PSP Conversion Tool#
+
 Created by Anthony Nguyen / Minotauri
+
 http://www.AntDroid.dev
+
 Dec 12, 2021
+
 Version 0.70
 
 This tool was created to help assist in the conversion of an extracted NCAA Football roster from the Playstation 3 system to create a CSV file that can be used to create a roster file for the NCAA Football series for Playstation 2 and Playstation Portable.
