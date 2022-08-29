@@ -31,11 +31,12 @@ v0.60 - Dec 08, 2021
 
 
 Requirements:
-Microsoft Excel
-A PS3 Roster
-PS3 BruteForce Save Data
-NCAA Dynasty Editor or EA Generic Editor
-Madden DB Editor v2.0 or v3.0 or Madden Xtreme Editor
+
+* Microsoft Excel
+* A PS3 Roster
+* PS3 BruteForce Save Data
+* NCAA Dynasty Editor or EA Generic Editor
+* Madden DB Editor v2.0 or v3.0 or Madden Xtreme Editor
 
 
 Creating a PS3 Import CSV
